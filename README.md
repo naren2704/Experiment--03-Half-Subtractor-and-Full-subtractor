@@ -1,5 +1,5 @@
 # Experiment--04-Half-Subtractor-and-Full-subtractor
-## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
+
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -64,23 +64,27 @@ endmodule
 
 ##  RTL realization :
 ### HALF SUBTRACTER
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/7d69ec91-afb3-4055-9a38-8bd79b7de4c7)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/25124fa9-0257-4442-962b-8c3428c745c4)
+
 
 ### FULL SUBTRACTER 
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/3d2aace7-3017-4716-99f8-6eea81a5a147)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/973029a4-6e03-4079-b9bf-b102491d4344)
+
 
 ## TRUTH TABLE :
 ### HALF SUBTRACTER
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/eae04f62-f1d8-4bcd-ac86-54f53d4d6331)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/8734d601-c235-404c-ad92-c8d8e70463d0)
+
 
 ### FULL SUBTRACTER
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/15d98850-806c-4fe5-989e-5494c6c01dc6)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/d2311d98-1e98-4ad4-972a-2cfac83d9c94)
+
 ## OUTPUT WAVEFORM :
 ### HALF SUBTRACTER
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/7942b6e2-7812-4b4e-b2fb-742fd3caf180)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/7d3a9eb1-eb3e-41f9-80cb-52ad764a29cd)
 
 ### FULL SUBTRACTER
-![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/063a3cd0-97cb-4e43-bda9-2578064da946)
+![image](https://github.com/naren2704/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118706984/165d6139-1dca-4313-8270-0a7248f84f84)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
